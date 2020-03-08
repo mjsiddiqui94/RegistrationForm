@@ -1,0 +1,34 @@
+body{
+	color: #fff;
+    background: #63738a;
+    font-family: 'Roboto', sans-serif;
+}
+}
+
+
+   h2 {
+    background-color: darkcyan;
+    width: 500px;
+    margin: auto;
+
+}
+p {
+    text-align: center;
+}
+form {
+    margin: 75px;
+    margin-top: 20;
+}
+.formfields {
+    padding: 100px;
+    background-color: azure;
+    width: 500;
+    margin: auto;
+}
+input#inputfields {
+    width: 350px;
+    padding: 5px;
+    margin: 5px 0px 5px 0px;
+	border-radius: 0.5px;
+
+}
